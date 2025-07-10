@@ -50,6 +50,7 @@ You'll see a menu like this:
 1. Train and Evaluate Model
 2. Predict Liver Disease
 3. Exit
+   
 Choose Option 1 to train the model (required before prediction).
 
 Choose Option 2 to enter user details and predict liver condition.
@@ -58,6 +59,7 @@ A PDF report will be saved in the user-reports/ folder.
 
 
 📄 Sample Output (PDF Report)
+
 The PDF includes:
 
 👤 Name, Age, Gender
