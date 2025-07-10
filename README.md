@@ -14,14 +14,17 @@ This project predicts the likelihood of liver disease using a Random Forest Clas
 
 4.user-reports/             - Folder where generated reports will be stored
 
+
 🚀 Features
+
 🔬 Machine Learning Model: Random Forest Classifier for binary classification (Liver Disease / No Liver Disease).
 
 📈 Model Training: Includes preprocessing (label encoding, scaling) and evaluation (confusion matrix, accuracy).
 
 🧾 Prediction: Takes real-time user inputs for liver-related test parameters and gives an instant diagnosis.
 
-📄 PDF Report: Automatically generates a personalized report including:
+📄 PDF Report: Automatically generates a personalized report.
+
 
 📦 Setup Instructions
 
@@ -35,6 +38,7 @@ This folder will store the generated PDF reports.
 3️⃣ Install Required Libraries
 Make sure Python is installed, then run:
 pip install -r requirements.txt
+
 
 🏃 How to Run
 Run the project using:
@@ -51,6 +55,7 @@ Choose Option 1 to train the model (required before prediction).
 Choose Option 2 to enter user details and predict liver condition.
 
 A PDF report will be saved in the user-reports/ folder.
+
 
 📄 Sample Output (PDF Report)
 The PDF includes:
