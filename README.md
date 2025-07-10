@@ -4,7 +4,6 @@
 This project predicts the likelihood of liver disease using a Random Forest Classifier trained on the Indian Liver Patient Dataset. It also generates a detailed, personalized medical report in PDF format based on user inputs.
 
 📁 Project Structure
-.
 ├── main.py                   # Main script for training, prediction, and report generation
 ├── requirements.txt          # List of Python dependencies
 ├── indian_liver_patient.csv  # Dataset used for model training
