@@ -1,17 +1,18 @@
 # Liver-disease-detection
 
 🧪 Liver Disease Detection System
+
 This project predicts the likelihood of liver disease using a Random Forest Classifier trained on the Indian Liver Patient Dataset. It also generates a detailed, personalized medical report in PDF format based on user inputs.
 
 📁 Project Structure
 
-1.main.py                   # Main script for training, prediction, and report generation
+1.main.py                   - Main script for training, prediction, and report generation
 
-2.requirements.txt          # List of Python dependencies
+2.requirements.txt          - List of Python dependencies
 
-3.indian_liver_patient.csv  # Dataset used for model training
+3.indian_liver_patient.csv  - Dataset used for model training
 
-4.user-reports/             # Folder where generated reports will be stored
+4.user-reports/             - Folder where generated reports will be stored
 
 🚀 Features
 🔬 Machine Learning Model: Random Forest Classifier for binary classification (Liver Disease / No Liver Disease).
@@ -23,6 +24,7 @@ This project predicts the likelihood of liver disease using a Random Forest Clas
 📄 PDF Report: Automatically generates a personalized report including:
 
 📦 Setup Instructions
+
 1️⃣ Clone or Download the Project
 Make sure all files (main.py, requirements.txt, indian_liver_patient.csv) are in the same folder.
 
